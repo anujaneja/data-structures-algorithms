@@ -98,7 +98,7 @@ public class SlidingWindowAlgorithm {
         int[] arr = new int[] {1,44,3,5,5,-5,2,-1,7,4,5,14};
         int windowSize = 3;
 
-        System.out.println(SlidingWindowAlgorithm.maxSlidingWindowUsingDqueue(arr,windowSize));
-        System.out.println(SlidingWindowAlgorithm.minSlidingWindowUsingDqueue(arr,windowSize));
+        System.out.println("Max sliding window output=="+SlidingWindowAlgorithm.maxSlidingWindowUsingDqueue(arr,windowSize));
+        System.out.println("Min sliding window output=="+SlidingWindowAlgorithm.minSlidingWindowUsingDqueue(arr,windowSize));
     }
 }
