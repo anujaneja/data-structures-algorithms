@@ -19,7 +19,7 @@ public class QuickSortAlgorithm {
 
         while(left<=right) {
 
-            System.out.println("arr[left]= "+arr[left]+ " arr[right]=="+arr[right]+" arr[pivot]=="+arr[pivot]);
+//            System.out.println("arr[left]= "+arr[left]+ " arr[right]=="+arr[right]+" arr[pivot]=="+arr[pivot]);
 
             if(arr[left]>arr[pivot] && arr[right]<arr[pivot] )  {
                 int temp = arr[left];
@@ -40,7 +40,7 @@ public class QuickSortAlgorithm {
         arr[left] = arr[pivot];
         arr[pivot] = temp;
 
-        printArrayElements(arr);
+//        printArrayElements(arr);
 
 //        System.out.println(arr[left]);
 
