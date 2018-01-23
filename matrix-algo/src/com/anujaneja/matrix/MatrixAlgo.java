@@ -19,7 +19,7 @@ public class MatrixAlgo {
 
             int eastElement = j<grid[i].length-1? grid[i][j+1]: Integer.MIN_VALUE;
                     //grid[i][Math.min(j+1,grid[i].length-1)];
-            int northElement = i-1>0 ? grid[i-1][j]: Integer.MIN_VALUE;
+            int northElement = i-1>=0 ? grid[i-1][j]: Integer.MIN_VALUE;
                     //grid[Math.max(i-1,0)][j];
 
             if(eastElement<=northElement) {
@@ -59,7 +59,7 @@ public class MatrixAlgo {
 
         System.out.println("\nResult is:="+result);
 
-        if(result==14) {
+        if(result==25) {
             System.out.print("Test Passed");
         } else {
             System.out.print("Test Fail");
