@@ -8,7 +8,7 @@ public class InsertionSort {
         for (int i = 1; i < arr.length; i++) {
             key = arr[i];
             j = i - 1;
-            System.out.println("key="+key);
+//            System.out.println("key="+key);
 
             while (j >= 0 && arr[j] > key) {
                 System.out.println("key="+key+" j="+j+" arr[j]="+arr[j]);
