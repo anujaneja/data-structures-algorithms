@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm;
+package com.anujaneja.algorithm.array;
 
 public class QuickSort {
 
