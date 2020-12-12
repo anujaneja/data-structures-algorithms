@@ -1,55 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../uniware_copy/Uniware/UniwareServices/src/main/java/com/uniware/services/cache/ChannelCache.java" description="channelCodeToChannelProperty.put(channel.getCode()..." line="87" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de7b1987-42ca-4648-9707-a63b7bb537d3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/arrays-algorithms.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/BinarySearchExtended.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/FindLowAndHighInSortedIniniteArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/LeastCommonElementIn3Arrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/MaxProfitSingleBuySellActiviy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/MergeOverlappingIntervals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/MoveZeros.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/QuickSortAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/RotateArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/SearchElementInAnInfiniteArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/SlidingWindowAlgorithm.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/SumOfTwoInArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interview-bit/interview-bit.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/BubbleSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/InsertionSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/MaxSubArraySumKadaneAlgo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/MergeSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/QuickSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/SelectionSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/linked-list/linked-list.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/linked-list/out/production/linked-list/com/anujaneja/linkedlist/ReverseLinkedList$LinkedListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/linked-list/out/production/linked-list/com/anujaneja/linkedlist/ReverseLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/linked-list/src/com/anujaneja/linkedlist/ReverseLinkedList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/matrix-algo/matrix-algo.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/matrix-algo/src/com/anujaneja/matrix/MatrixAlgo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/BinarySearchExtended.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/FindLowAndHighInSortedIniniteArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/LeastCommonElementIn3Arrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/MaxProfitSingleBuySellActiviy$BuySellActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/MaxProfitSingleBuySellActiviy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/MergeOverlappingIntervals$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/MergeOverlappingIntervals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/MoveZeros.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/QuickSortAlgorithm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/RotateArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/SearchElementInAnInfiniteArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/SlidingWindowAlgorithm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/arrays-algorithms/com/anujaneja/algorithm/SumOfTwoInArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/interview-bit/com/anujaneja/algorithm/BinarySearchExtended.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/interview-bit/com/anujaneja/algorithm/InsertionSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/linked-list/com/anujaneja/linkedlist/ReverseLinkedList$LinkedListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/linked-list/com/anujaneja/linkedlist/ReverseLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/matrix-algo/com/anujaneja/matrix/MatrixAlgo.class" afterPath="" />
+    <list default="true" id="6b7cf5f8-e5e3-4bd5-8e02-b9c053f890a9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTAncestor.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTAncestor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTInsertion.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTInsertion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTMax.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTMax.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSearchIterative.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSearchIterative.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSearchRecursive.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSearchRecursive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSuccessor.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSuccessor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/InOrderTraversal.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/InOrderTraversal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/PostOrderTraversal.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/PostOrderTraversal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="MergeOverlappingIntervals.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/array/MergeOverlappingIntervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SlidingWindowAvg.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS-PROBLEMS/src/com/anujaneja/ds/SlidingWindowAvg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -87,6 +63,28 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -103,11 +101,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-PROBLEMS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-PROBLEMS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-PROBLEMS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,6 +157,10 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,50 +261,59 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de7b1987-42ca-4648-9707-a63b7bb537d3" name="Default" comment="" />
-      <created>1601225890533</created>
+      <changelist id="6b7cf5f8-e5e3-4bd5-8e02-b9c053f890a9" name="Default" comment="" />
+      <created>1607762470734</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601225890533</updated>
-      <workItem from="1601225894620" duration="635000" />
+      <updated>1607762470734</updated>
+      <workItem from="1607762474834" duration="1788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="635000" />
+    <option name="totallyTimeSpent" value="1788000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Codota" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Codota" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -281,72 +328,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arrays-algorithms/src/com/anujaneja/algorithm/BinarySearchExtended.java">
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/array/MergeOverlappingIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="360">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interview-bit/out/production/interview-bit/com/anujaneja/algorithm/array/MaxSubArraySumKadaneAlgo.class">
+    <entry file="file://$PROJECT_DIR$/DS-PROBLEMS/src/com/anujaneja/ds/SlidingWindowAvg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2318#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview-bit/out/production/interview-bit/com/anujaneja/algorithm/array/BubbleSort.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#1034#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview-bit/out/production/interview-bit/com/anujaneja/algorithm/array/InsertionSort.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#928#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/RepeatAndMissingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-484">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview-bit/src/com/anujaneja/algorithm/array/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="648">
+          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -354,9 +347,91 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DS-Algo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

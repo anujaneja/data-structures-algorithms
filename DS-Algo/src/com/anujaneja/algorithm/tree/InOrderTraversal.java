@@ -1,4 +1,4 @@
 package com.anujaneja.algorithm.tree;
 
-public class PostOrderTraversal {
+public class InOrderTraversal {
 }
