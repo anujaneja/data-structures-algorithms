@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DS-Algo/DS-Algo.iml" filepath="$PROJECT_DIR$/DS-Algo/DS-Algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively.iml" filepath="$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively.iml" />
     </modules>
   </component>
 </project>
