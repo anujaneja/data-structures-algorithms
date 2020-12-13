@@ -1,4 +1,4 @@
-package com.anujaneja.ds;
+package com.anujaneja.algorithm.educative;
 
 public class SlidingWindowAvg {
 

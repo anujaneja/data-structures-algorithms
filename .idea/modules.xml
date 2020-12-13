@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DS-Algo/DS-Algo.iml" filepath="$PROJECT_DIR$/DS-Algo/DS-Algo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DS-PROBLEMS/DS-PROBLEMS.iml" filepath="$PROJECT_DIR$/DS-PROBLEMS/DS-PROBLEMS.iml" />
     </modules>
   </component>
 </project>
