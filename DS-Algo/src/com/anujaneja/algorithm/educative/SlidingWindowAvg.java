@@ -1,5 +1,9 @@
 package com.anujaneja.algorithm.educative;
 
+/**
+ * Problem Statement:
+ * https://www.geeksforgeeks.org/program-find-simple-moving-average/
+ */
 public class SlidingWindowAvg {
 
     //Non-efficient

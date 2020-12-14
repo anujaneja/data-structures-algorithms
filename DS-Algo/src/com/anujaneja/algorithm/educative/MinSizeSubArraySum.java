@@ -1,5 +1,9 @@
 package com.anujaneja.algorithm.educative;
 
+/**
+ * Problem statement:
+ * https://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value/
+ */
 public class MinSizeSubArraySum {
 
     public static int findMinSubArray(int[] arr,int S) {
