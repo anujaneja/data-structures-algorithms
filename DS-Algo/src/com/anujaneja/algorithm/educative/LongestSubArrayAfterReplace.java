@@ -3,6 +3,9 @@ package com.anujaneja.algorithm.educative;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Educative - Grokking Coding Interview - Pattens for coding - No. 9
+ */
 public class LongestSubArrayAfterReplace {
 
     public static int find(String str,int k) {
