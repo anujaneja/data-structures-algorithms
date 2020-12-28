@@ -1,6 +1,5 @@
 package com.anujaneja.algorithm.educative.two_pointer;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class SqOfSortedArray {
