@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm.educative;
+package com.anujaneja.algorithm.educative.sliding_window;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm.educative;
+package com.anujaneja.algorithm.educative.sliding_window;
 
 /**
  * Problem statement:
