@@ -15,7 +15,7 @@ public class TripletSumClosestToTarget {
      * @param target
      * @return
      */
-    public int threeSumClosest(int[] nums, int target) {
+    public static int threeSumClosest(int[] nums, int target) {
         if(nums==null || nums.length<2) {
             throw new IllegalArgumentException();
         }
@@ -63,6 +63,8 @@ public class TripletSumClosestToTarget {
     }
 
     public static void main(String[] args) {
+        int[] nums = new int[]{-1,0,1,2,-1,-4};
 
+        System.out.println("output= "+threeSumClosest(nums,1));
     }
 }
