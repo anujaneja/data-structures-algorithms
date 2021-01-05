@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/3sum/
+ * Medium - https://leetcode.com/problems/3sum/
  * Time Complexity: O(n2)
  */
 public class TripletSumToZero {

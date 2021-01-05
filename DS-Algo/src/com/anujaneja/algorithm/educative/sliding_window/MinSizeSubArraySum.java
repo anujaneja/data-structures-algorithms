@@ -3,6 +3,7 @@ package com.anujaneja.algorithm.educative.sliding_window;
 /**
  * Problem statement:
  * https://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value/
+ * Medium - https://leetcode.com/problems/minimum-size-subarray-sum/
  */
 public class MinSizeSubArraySum {
 

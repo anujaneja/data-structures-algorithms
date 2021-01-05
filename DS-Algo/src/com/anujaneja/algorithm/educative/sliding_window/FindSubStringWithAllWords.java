@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+ * Hard - https://leetcode.com/problems/substring-with-concatenation-of-all-words/
  */
 public class FindSubStringWithAllWords {
 

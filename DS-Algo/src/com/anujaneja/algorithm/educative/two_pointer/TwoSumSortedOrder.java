@@ -3,7 +3,8 @@ package com.anujaneja.algorithm.educative.two_pointer;
 import java.util.Arrays;
 
 /**
- * https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+ * Easy - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+ * Two Sum II - Input array is sorted
  */
 public class TwoSumSortedOrder {
     public static int[] twoSum(int[] nums, int target) {

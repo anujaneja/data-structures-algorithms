@@ -2,6 +2,9 @@ package com.anujaneja.algorithm.educative.sliding_window;
 
 import java.util.HashMap;
 
+/**
+ * Hard -  https://leetcode.com/problems/minimum-window-substring/
+ */
 public class MinimumWindowSubstring {
 
     public static void main(String[] args) {
@@ -39,7 +42,7 @@ public class MinimumWindowSubstring {
             }
 
 
-            System.out.println("matchedCount: "+matchedCount+" windowStart="+windowStart+" windowEnd="+windowEnd);
+//            System.out.println("matchedCount: "+matchedCount+" windowStart="+windowStart+" windowEnd="+windowEnd);
 
             while(matchedCount==t.length()) {
                 Character leftChar = s.charAt(windowStart);
@@ -59,7 +62,7 @@ public class MinimumWindowSubstring {
             }
         }
 
-        System.out.println("minLength="+minLength+" subStrStart="+subStrStart);
+//        System.out.println("minLength="+minLength+" subStrStart="+subStrStart);
 
         if(subStrStart+minLength>s.length()) {
             output="";

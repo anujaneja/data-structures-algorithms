@@ -6,6 +6,7 @@ import java.util.Map;
 /**
  * Problem statement:
  * https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
+ * Medium - https://leetcode.com/problems/longest-substring-without-repeating-characters/
  *
  */
 public class NoRepeatSubStringDistinctChars {

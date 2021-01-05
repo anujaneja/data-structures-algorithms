@@ -2,7 +2,7 @@ package com.anujaneja.algorithm.educative.sliding_window;
 
 /**
  * Problem Statement:
- * https://www.geeksforgeeks.org/program-find-simple-moving-average/
+ * Easy - https://www.geeksforgeeks.org/program-find-simple-moving-average/
  */
 public class SlidingWindowAvg {
 

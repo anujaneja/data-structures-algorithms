@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * Educative - Grokking Coding Interview - Pattens for coding - No. 9
+ * Medium  -  https://leetcode.com/problems/longest-repeating-character-replacement/
  */
 public class LongestSubArrayAfterReplace {
 

@@ -4,6 +4,7 @@ import java.util.HashMap;
 
 /**
  * Educative - Grokking Coding Interview - Pattens for coding - No. 10
+ * Medium - https://leetcode.com/problems/max-consecutive-ones-iii/
  */
 public class LongestSubarrayWithOnesAfterReplacementWithZeros {
 

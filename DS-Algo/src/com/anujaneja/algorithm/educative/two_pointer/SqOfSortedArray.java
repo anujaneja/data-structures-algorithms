@@ -2,6 +2,9 @@ package com.anujaneja.algorithm.educative.two_pointer;
 
 import java.util.Arrays;
 
+/**
+ * Easy - https://leetcode.com/problems/squares-of-a-sorted-array/
+ */
 public class SqOfSortedArray {
     public static int[] sortedSquares(int[] nums) {
 

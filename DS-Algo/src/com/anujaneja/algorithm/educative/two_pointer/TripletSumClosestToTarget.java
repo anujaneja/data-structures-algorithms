@@ -3,7 +3,7 @@ package com.anujaneja.algorithm.educative.two_pointer;
 import java.util.Arrays;
 
 /**
- * https://leetcode.com/problems/3sum-closest/submissions/
+ * Medium - https://leetcode.com/problems/3sum-closest/submissions/
  *
  */
 public class TripletSumClosestToTarget {

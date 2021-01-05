@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7cf5f8-e5e3-4bd5-8e02-b9c053f890a9" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/RmoveDuplicatesFromSortedArray.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/RemoveDuplicatesFromSortedArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindAllAnagramsOfStr.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindAllAnagramsOfStr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindSubStringWithAllWords.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindSubStringWithAllWords.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FruitsBasketsProblem.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FruitsBasketsProblem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubArrayAfterReplace.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubArrayAfterReplace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubarrayWithOnesAfterReplacementWithZeros.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubarrayWithOnesAfterReplacementWithZeros.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubstringWithKDistinctChars.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubstringWithKDistinctChars.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinSizeSubArraySum.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinSizeSubArraySum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinimumWindowSubstring.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinimumWindowSubstring.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/NoRepeatSubStringDistinctChars.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/NoRepeatSubStringDistinctChars.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/PermutationOfStringInAStr.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/PermutationOfStringInAStr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/SlidingWindowAvg.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/SlidingWindowAvg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/SqOfSortedArray.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/SqOfSortedArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletCountSmallerThan.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletCountSmallerThan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumClosestToTarget.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumClosestToTarget.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumToZero.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumToZero.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,53 +37,48 @@
       <file leaf-file-name="PermutationOfStringInAStr.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/PermutationOfStringInAStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="6" column="76" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_1_Who_should_take_this_course_.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/1_1_Who_should_take_this_course_.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="28_28_Problem_Challenge_1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/28_28_Problem_Challenge_1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="27_27_Dutch_National_Flag_Problem__medium_.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/27_27_Dutch_National_Flag_Problem__medium_.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="26_26_Subarrays_with_Product_Less_than_a_Target__medium_.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/26_26_Subarrays_with_Product_Less_than_a_Target__medium_.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="24_24_Triplet_Sum_Close_to_Target__medium_.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/24_24_Triplet_Sum_Close_to_Target__medium_.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TripletSumToZero.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumToZero.java">
+      <file leaf-file-name="TwoSumSortedOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="110" column="60" lean-forward="false" selection-start-line="108" selection-start-column="8" selection-end-line="110" selection-end-column="60" />
+            <state relative-caret-position="75">
+              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinSizeSubArraySum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinSizeSubArraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SlidingWindowAvg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/SlidingWindowAvg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FruitsBasketsProblem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FruitsBasketsProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,28 +86,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="25_25_Triplets_with_Smaller_Sum__medium_.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/25_25_Triplets_with_Smaller_Sum__medium_.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="LongestSubstringWithKDistinctChars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubstringWithKDistinctChars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TripletCountSmallerThan.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletCountSmallerThan.java">
+      <file leaf-file-name="MinimumWindowSubstring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinimumWindowSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            <state relative-caret-position="75">
+              <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TripletSumClosestToTarget.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumClosestToTarget.java">
+      <file leaf-file-name="NoRepeatSubStringDistinctChars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/NoRepeatSubStringDistinctChars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="47" />
+            <state relative-caret-position="105">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -118,6 +134,7 @@
       <find>threeCountSmaller</find>
       <find>revised_target</find>
       <find>testCaseNo++</find>
+      <find>14141114</find>
     </findStrings>
     <replaceStrings>
       <replace>testCaseNo</replace>
@@ -152,13 +169,25 @@
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/FindAllAnagramsOfStr.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/FindSubStringWithAllWords.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/RmoveDuplicatesFromSortedArray.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/RemoveDuplicatesFromSortedArray.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/SqOfSortedArray.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumToZero.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/PermutationOfStringInAStr.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumClosestToTarget.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletCountSmallerThan.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumToZero.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindAllAnagramsOfStr.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindSubStringWithAllWords.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubArrayAfterReplace.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubarrayWithOnesAfterReplacementWithZeros.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/PermutationOfStringInAStr.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinimumWindowSubstring.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/NoRepeatSubStringDistinctChars.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/SlidingWindowAvg.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinSizeSubArraySum.java" />
+        <option value="$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Fruits_into_Baskets_(medium)_1583521328556.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubstringWithKDistinctChars.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FruitsBasketsProblem.java" />
       </list>
     </option>
   </component>
@@ -242,20 +271,45 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="educative" type="462c0819:PsiDirectoryNode" />
+              <item name="sliding_window" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="educative" type="462c0819:PsiDirectoryNode" />
               <item name="two_pointer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" type="462c0819:PsiDirectoryNode" />
+              <item name="code-snippet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" type="462c0819:PsiDirectoryNode" />
+              <item name="code-snippet" type="462c0819:PsiDirectoryNode" />
+              <item name="Fruits_into_Baskets_(medium)_1583521328556.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" type="462c0819:PsiDirectoryNode" />
+              <item name="code-snippet" type="462c0819:PsiDirectoryNode" />
+              <item name="Unique_Generalized_Abbreviations_(hard)_1583605435072.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,15 +351,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TripletCountSmallerThan">
-    <configuration name="RmoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FruitsBasketsProblem">
+    <configuration name="FruitsBasketsProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.two_pointer.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.sliding_window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.two_pointer.RmoveDuplicatesFromSortedArray" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.sliding_window.FruitsBasketsProblem" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -317,14 +371,14 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="SqOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestSubstringWithKDistinctChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.two_pointer.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.sliding_window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.two_pointer.SqOfSortedArray" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.sliding_window.LongestSubstringWithKDistinctChars" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -336,14 +390,14 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="TripletCountSmallerThan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxFruitCountOf2Types (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.two_pointer.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.sliding_window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.two_pointer.TripletCountSmallerThan" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.sliding_window.MaxFruitCountOf2Types" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -355,14 +409,9 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="TripletSumClosestToTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.two_pointer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.two_pointer.TripletSumClosestToTarget" />
+    <configuration name="MaxFruitCountOf2Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MaxFruitCountOf2Types" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -371,17 +420,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DS-Algo" />
+      <module name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" />
       <envs />
     </configuration>
-    <configuration name="TripletSumToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="NoRepeatSubStringDistinctChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.two_pointer.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.sliding_window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.two_pointer.TripletSumToZero" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.sliding_window.NoRepeatSubStringDistinctChars" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -474,19 +523,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RmoveDuplicatesFromSortedArray" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SqOfSortedArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TripletSumToZero" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TripletSumClosestToTarget" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TripletCountSmallerThan" />
+      <item index="0" class="java.lang.String" itemvalue="Application.NoRepeatSubStringDistinctChars" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FruitsBasketsProblem" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LongestSubstringWithKDistinctChars" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MaxFruitCountOf2Types" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaxFruitCountOf2Types (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TripletCountSmallerThan" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TripletSumClosestToTarget" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TripletSumToZero" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SqOfSortedArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RmoveDuplicatesFromSortedArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FruitsBasketsProblem" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LongestSubstringWithKDistinctChars" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MaxFruitCountOf2Types (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MaxFruitCountOf2Types" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NoRepeatSubStringDistinctChars" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +555,10 @@
       <workItem from="1609163998570" duration="1142000" />
       <workItem from="1609512818995" duration="8252000" />
       <workItem from="1609739417620" duration="494000" />
-      <workItem from="1609763429499" duration="1598000" />
+      <workItem from="1609763429499" duration="4962000" />
+      <workItem from="1609847333330" duration="3346000" />
+      <workItem from="1609851157775" duration="211000" />
+      <workItem from="1609869764508" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Min Sub array problem...">
       <created>1607884716851</created>
@@ -613,11 +665,18 @@
       <option name="project" value="LOCAL" />
       <updated>1609765068523</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Two pointer pattern : Triplet sum smaller than target - test cases added.">
+      <created>1609765606428</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609765606428</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64373000" />
+    <option name="totallyTimeSpent" value="71308000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,34 +691,34 @@
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Codota" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -719,7 +778,8 @@
     <MESSAGE value="Two pointer pattern : Triplet sum is implemented..." />
     <MESSAGE value="Two pointer pattern : Triplet sum closest..." />
     <MESSAGE value="Two pointer pattern : Triplet sum smaller than target" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two pointer pattern : Triplet sum smaller than target" />
+    <MESSAGE value="Two pointer pattern : Triplet sum smaller than target - test cases added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Two pointer pattern : Triplet sum smaller than target - test cases added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -728,18 +788,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/5_5_Smallest_Subarray_with_a_given_sum___easy_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTAncestor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/PrintArthmeticExpression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -844,13 +892,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/SqOfSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/23_23_Triplet_Sum_to_Zero__medium_.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -896,104 +937,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/SlidingWindowAvg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="68" lean-forward="false" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/RmoveDuplicatesFromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindAllAnagramsOfStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindSubStringWithAllWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FruitsBasketsProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubArrayAfterReplace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubarrayWithOnesAfterReplacementWithZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubstringWithKDistinctChars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinimumWindowSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinSizeSubArraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/NoRepeatSubStringDistinctChars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/PermutationOfStringInAStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/1_1_Who_should_take_this_course_.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/28_28_Problem_Challenge_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/24_24_Triplet_Sum_Close_to_Target__medium_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/25_25_Triplets_with_Smaller_Sum__medium_.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1008,39 +967,158 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/24_24_Triplet_Sum_Close_to_Target__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/RemoveDuplicatesFromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/SqOfSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumClosestToTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumToZero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="110" column="60" lean-forward="false" selection-start-line="108" selection-start-column="8" selection-end-line="110" selection-end-column="60" />
+        <state relative-caret-position="105">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumClosestToTarget.java">
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletCountSmallerThan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="47" />
+        <state relative-caret-position="75">
+          <caret line="5" column="93" lean-forward="false" selection-start-line="5" selection-start-column="93" selection-end-line="5" selection-end-column="93" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/25_25_Triplets_with_Smaller_Sum__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindAllAnagramsOfStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletCountSmallerThan.java">
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FindSubStringWithAllWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="75">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubArrayAfterReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="84" lean-forward="false" selection-start-line="7" selection-start-column="84" selection-end-line="7" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubarrayWithOnesAfterReplacementWithZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/NoRepeatSubStringDistinctChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/SlidingWindowAvg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/PermutationOfStringInAStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="76" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinSizeSubArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/MinimumWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Fruits_into_Baskets_(medium)_1583521328556.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Unique_Generalized_Abbreviations_(hard)_1583605435072.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/LongestSubstringWithKDistinctChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/sliding_window/FruitsBasketsProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
