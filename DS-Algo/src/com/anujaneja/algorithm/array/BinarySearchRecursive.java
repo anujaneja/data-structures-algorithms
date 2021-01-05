@@ -1,7 +1,5 @@
 package com.anujaneja.algorithm.array;
 
-import java.util.Arrays;
-
 public class BinarySearchRecursive {
 
     public static int binarySearchDesc(int[] arr,int low,int high,int element) {

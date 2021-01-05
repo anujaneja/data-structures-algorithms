@@ -1,8 +1,5 @@
 package com.anujaneja.algorithm.array;
 
-import java.util.Arrays;
-import java.util.Random;
-
 /**
  * Created by anuj on 15/10/17.
  */

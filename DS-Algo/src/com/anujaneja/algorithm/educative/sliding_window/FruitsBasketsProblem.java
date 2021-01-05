@@ -1,11 +1,5 @@
 package com.anujaneja.algorithm.educative.sliding_window;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
-
 /**
  * Problem Statement:
  * Medium - https://leetcode.com/problems/fruit-into-baskets/

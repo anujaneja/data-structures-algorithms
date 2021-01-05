@@ -1,9 +1,5 @@
 package com.anujaneja.algorithm.linkedlist;
 
-import sun.awt.image.ImageWatched;
-
-import java.util.LinkedList;
-
 /**
  * Created by anuj on 05/11/17.
  */
