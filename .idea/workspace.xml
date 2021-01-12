@@ -5,52 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7cf5f8-e5e3-4bd5-8e02-b9c053f890a9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/BinarySearchExtended.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/BinarySearchIterative.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/BinarySearchRecursive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/BubbleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/FindLowAndHighInSortedIniniteArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/InsertionSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/LeastCommonElementIn3Arrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxProfitSingleBuySellActiviy$BuySellActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxProfitSingleBuySellActiviy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxSubArraySumKadaneAlgo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/MergeOverlappingIntervals$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/MergeOverlappingIntervals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/MergeSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/MoveZeros.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/QuickSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/QuickSortAlgorithm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/RepeatAndMissingArray$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/RepeatAndMissingArray$Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/RepeatAndMissingArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/RotateArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/SearchElementInAnInfiniteArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/SelectionSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/SlidingWindowAlgorithm.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/SumOfTwoInArrays.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/array/matrix/MatrixAlgo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/linkedlist/DQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/linkedlist/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/linkedlist/ReverseLinkedList$LinkedListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/linkedlist/ReverseLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTAncestor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTDeletion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTInsertion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTMax.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTMin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSearchIterative.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSearchRecursive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSuccessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/ExpressionEvaluation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/InOrderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/InOrderTraversalBST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/PostOrderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/PreOrderTraversal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DS-Algo/out/production/DS-Algo/com/anujaneja/algorithm/tree/PrintArthmeticExpression.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/array/BinarySearchRecursive.class" afterPath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/array/BinarySearchRecursive.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxProfitSingleBuySellActiviy$BuySellActivity.class" afterPath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxProfitSingleBuySellActiviy$BuySellActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxProfitSingleBuySellActiviy.class" afterPath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxProfitSingleBuySellActiviy.class" />
@@ -69,16 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TwoSumSortedOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="14_14_Solution_Review__Problem_Challenge_2.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/14_14_Solution_Review__Problem_Challenge_2.png">
           <provider selected="true" editor-type-id="images">
@@ -286,57 +230,6 @@
             <path>
               <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="educative" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="educative" type="462c0819:PsiDirectoryNode" />
-              <item name="two_pointer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structures-algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -601,7 +494,7 @@
       <workItem from="1610036290882" duration="2326000" />
       <workItem from="1610123259282" duration="2676000" />
       <workItem from="1610387015020" duration="3255000" />
-      <workItem from="1610470674501" duration="1003000" />
+      <workItem from="1610470674501" duration="1041000" />
     </task>
     <task id="LOCAL-00001" summary="Min Sub array problem...">
       <created>1607884716851</created>
@@ -743,11 +636,18 @@
       <option name="project" value="LOCAL" />
       <updated>1610471646060</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="National Dutch Netherlands prob solved.">
+      <created>1610471682763</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610471682763</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81142000" />
+    <option name="totallyTimeSpent" value="81180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -863,13 +763,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Kth_Smallest_Number_(easy)_1583638902253.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../educative.io-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Merge_K_Sorted_Lists_(medium)_1583639828201.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1185,6 +1078,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
           <caret line="87" column="72" lean-forward="true" selection-start-line="87" selection-start-column="72" selection-end-line="87" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/array/MaxProfitSingleBuySellActiviy$BuySellActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
