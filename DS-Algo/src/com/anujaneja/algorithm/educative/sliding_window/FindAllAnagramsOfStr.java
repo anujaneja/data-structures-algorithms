@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Medium - https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/
+ * Medium - https://leetcode.com/problems/find-all-anagrams-in-a-string/
  */
 public class FindAllAnagramsOfStr {
 

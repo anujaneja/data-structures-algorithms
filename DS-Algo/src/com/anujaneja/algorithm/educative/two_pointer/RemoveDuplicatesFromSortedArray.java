@@ -1,7 +1,7 @@
 package com.anujaneja.algorithm.educative.two_pointer;
 
 /**
- * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ * Easy - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  */
 public class RemoveDuplicatesFromSortedArray {
     public static int removeDuplicates(int[] nums) {
