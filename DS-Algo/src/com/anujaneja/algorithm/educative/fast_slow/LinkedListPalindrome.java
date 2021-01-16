@@ -2,6 +2,9 @@ package com.anujaneja.algorithm.educative.fast_slow;
 
 import com.anujaneja.algorithm.commons.ListNode;
 
+/**
+ * Medium - https://leetcode.com/problems/palindrome-linked-list/
+ */
 public class LinkedListPalindrome {
 
     public static boolean isPalindrome(ListNode head) {
@@ -21,8 +24,8 @@ public class LinkedListPalindrome {
 
         ListNode mid = slow;
 
-        System.out.println("mid="+mid.val);
-        System.out.println("counter="+counter);
+        //System.out.println("mid="+mid.val);
+        //System.out.println("counter="+counter);
         ListNode secondHalf = ReverseLinkedList.reverse(mid);
 
         ListNode startNode = head;
@@ -32,6 +35,7 @@ public class LinkedListPalindrome {
         if(secondHalf==null && head.val!=mid.val) {
             isPalindrome = false;
         }
+
         ListNode secondHalfItr = secondHalf;
 
         while (secondHalfItr!= null) {
@@ -45,8 +49,6 @@ public class LinkedListPalindrome {
         }
 
         secondHalf = ReverseLinkedList.reverse(secondHalf);
-
-//        mid.next = secondHalf;
 
         return isPalindrome;
     }
