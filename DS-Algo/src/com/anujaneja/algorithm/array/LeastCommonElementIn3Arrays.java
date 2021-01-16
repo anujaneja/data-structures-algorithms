@@ -50,6 +50,6 @@ public class LeastCommonElementIn3Arrays {
         int leastCommonElement = leastCommonElementIn3Arrays.findLeastCommonElementIn3Arrays(arr1,arr2,arr3);
 
 
-        System.out.println("Least common element is: "+leastCommonElement);
+        System.out.println("Least commons element is: "+leastCommonElement);
     }
 }
