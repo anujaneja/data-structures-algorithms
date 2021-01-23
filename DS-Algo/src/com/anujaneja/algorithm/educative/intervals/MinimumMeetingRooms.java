@@ -28,8 +28,8 @@ class MinimumMeetingRooms {
         PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
 
         for (Meeting meeting : meetings) {
-
-            if (!priorityQueue.isEmpty() && priorityQueue.peek() <= meeting.start) {
+            //Need to remove all over meeting...
+            while (!priorityQueue.isEmpty() && priorityQueue.peek() <= meeting.start) {
                 priorityQueue.poll();
             }
 
@@ -44,6 +44,7 @@ class MinimumMeetingRooms {
             {
                 add(new Meeting(4, 5));
                 add(new Meeting(2, 3));
+                add(new Meeting(1, 3));
                 add(new Meeting(2, 4));
                 add(new Meeting(3, 5));
             }
