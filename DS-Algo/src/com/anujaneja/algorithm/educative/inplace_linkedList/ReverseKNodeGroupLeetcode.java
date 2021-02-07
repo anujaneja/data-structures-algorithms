@@ -29,7 +29,7 @@ public class ReverseKNodeGroupLeetcode {
             cnt++;
         }
 
-        //Update lastHeadNode.next with k+1 Node...
+        //Update lastHeadNode.next with k+1 TreeNode...
 
         if(curr!=null) {
             lastHeadNode.next=reverseKGroup(curr,k);
