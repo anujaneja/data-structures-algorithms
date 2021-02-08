@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fa1ed30-f62a-4fab-9ac9-8cb4dd290a63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTAncestor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTDeletion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTInsertion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTMax.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTMin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSearchIterative.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSearchRecursive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/tree/BSTSuccessor.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTAncestor.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTAncestor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTDeletion.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTDeletion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTInsertion.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTInsertion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTMax.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTMin.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSearchIterative.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSearchRecursive.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSort.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BSTSuccessor.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSuccessor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/commons/ListNode.class" afterPath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/commons/ListNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/commons/ListNode.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/commons/ListNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseAlternateKNodeGroup.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseAlternateKNodeGroup.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseKNodeGroupEducative.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseKNodeGroupEducative.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseKNodeGroupLeetcode.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseKNodeGroupLeetcode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,34 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTValidation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BSTValidation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PostOrderTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/PostOrderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="299">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,8 +47,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTSearchIterative.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
+      <file leaf-file-name="BSTInsertion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTInsertion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -102,8 +57,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTSearchRecursive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java">
+      <file leaf-file-name="BSTSearchIterative.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BSTMax.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -115,7 +80,7 @@
       <file leaf-file-name="BSTSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="30">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
@@ -125,18 +90,28 @@
       <file leaf-file-name="BSTSuccessor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSuccessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java">
+      <file leaf-file-name="BSTMin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="44" column="43" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="43" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BSTSearchRecursive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -189,6 +164,8 @@
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/Node.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java" />
       </list>
     </option>
   </component>
@@ -247,9 +224,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,21 +245,6 @@
               <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="educative" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="educative" type="462c0819:PsiDirectoryNode" />
-              <item name="inplace_linkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
@@ -331,7 +294,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,7 +331,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BSTValidation">
+  <component name="RunManager" selected="Application.BSTSearchIterative">
+    <configuration name="BSTSearchIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.anujaneja.algorithm.tree.BST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTSearchIterative" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DS-Algo" />
+      <envs />
+    </configuration>
+    <configuration name="BSTSearchRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.anujaneja.algorithm.tree.BST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTSearchRecursive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DS-Algo" />
+      <envs />
+    </configuration>
     <configuration name="BSTValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -397,44 +397,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BalancedBinaryTree" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DS-Algo" />
-      <envs />
-    </configuration>
-    <configuration name="ReverseAlternateKNodeGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.inplace_linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.inplace_linkedList.ReverseAlternateKNodeGroup" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DS-Algo" />
-      <envs />
-    </configuration>
-    <configuration name="ReverseSubLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.inplace_linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.inplace_linkedList.ReverseSubLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -546,19 +508,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReverseSubLinkedList" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReverseAlternateKNodeGroup" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RotateRightLinkedList" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BalancedBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BSTValidation" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RotateRightLinkedList" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BalancedBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BSTValidation" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BSTSearchRecursive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BSTSearchIterative" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BSTValidation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BalancedBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RotateRightLinkedList" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ReverseAlternateKNodeGroup" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReverseSubLinkedList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BSTSearchIterative" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BSTSearchRecursive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BSTValidation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BalancedBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RotateRightLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -578,7 +540,8 @@
       <workItem from="1612338679102" duration="3616000" />
       <workItem from="1612374992566" duration="1710000" />
       <workItem from="1612437686420" duration="5589000" />
-      <workItem from="1612703819721" duration="8326000" />
+      <workItem from="1612703819721" duration="9541000" />
+      <workItem from="1612783388687" duration="2378000" />
     </task>
     <task id="LOCAL-00001" summary="Reverse sublist is implemented...">
       <created>1612290809803</created>
@@ -594,11 +557,18 @@
       <option name="project" value="LOCAL" />
       <updated>1612464147541</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="BST few questions solved...">
+      <created>1612723065305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612723065305</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21809000" />
+    <option name="totallyTimeSpent" value="25402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -634,7 +604,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -643,6 +612,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,77 +624,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reverse sublist is implemented..." />
     <MESSAGE value="Inplace oprn... LinkedList question solved..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Inplace oprn... LinkedList question solved..." />
+    <MESSAGE value="BST few questions solved..." />
+    <option name="LAST_COMMIT_MESSAGE" value="BST few questions solved..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/74_74_Problem_Challenge_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/75_75_Solution_Review__Problem_Challenge_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseSubLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2265">
-          <caret line="151" column="42" lean-forward="false" selection-start-line="151" selection-start-column="42" selection-end-line="151" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/68_68_Introduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseSubLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="12" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/70_70_Reverse_a_Sub_list__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Reverse_a_Sub-list_(medium)_1583603497314.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="102" column="5" lean-forward="false" selection-start-line="91" selection-start-column="4" selection-end-line="102" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/71_71_Reverse_every_K_element_Sub_list__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/72_72_Problem_Challenge_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/73_73_Solution_Review__Problem_Challenge_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/74_74_Problem_Challenge_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/75_75_Solution_Review__Problem_Challenge_2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -844,16 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseAlternateKNodeGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="122" column="32" lean-forward="false" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseKNodeGroupEducative.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -888,6 +785,142 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/PostOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="43" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/intervals/MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/ShortestUnsortedSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/RemoveDuplicatesFromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/SqOfSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TripletSumToZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/two_pointer/TwoSumSortedOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseAlternateKNodeGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="122" column="32" lean-forward="false" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/fast_slow/LinkedListPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/fast_slow/RemoveCycleInLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/fast_slow/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/fast_slow/SingleLinkedListContainsCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/fast_slow/RearrangeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTDeletion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTInsertion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -906,37 +939,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTDeletion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -946,52 +955,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSuccessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTAncestor.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/PostOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="44" column="43" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="299">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
