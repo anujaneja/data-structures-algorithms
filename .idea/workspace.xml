@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fa1ed30-f62a-4fab-9ac9-8cb4dd290a63" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/commons/ListNode.class" afterPath="$PROJECT_DIR$/out/production/DS-Algo/com/anujaneja/algorithm/commons/ListNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTValidation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BSTValidation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -107,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTSearchRecursive.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BSTSearchRecursive.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="194">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -163,9 +161,9 @@
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/Node.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java" />
       </list>
     </option>
   </component>
@@ -541,7 +539,7 @@
       <workItem from="1612374992566" duration="1710000" />
       <workItem from="1612437686420" duration="5589000" />
       <workItem from="1612703819721" duration="9541000" />
-      <workItem from="1612783388687" duration="2378000" />
+      <workItem from="1612783388687" duration="2465000" />
     </task>
     <task id="LOCAL-00001" summary="Reverse sublist is implemented...">
       <created>1612290809803</created>
@@ -564,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1612723065305</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="BST Search Implemented...">
+      <created>1612805895031</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612805895031</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25402000" />
+    <option name="totallyTimeSpent" value="25489000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -600,10 +605,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -625,7 +630,8 @@
     <MESSAGE value="Reverse sublist is implemented..." />
     <MESSAGE value="Inplace oprn... LinkedList question solved..." />
     <MESSAGE value="BST few questions solved..." />
-    <option name="LAST_COMMIT_MESSAGE" value="BST few questions solved..." />
+    <MESSAGE value="BST Search Implemented..." />
+    <option name="LAST_COMMIT_MESSAGE" value="BST Search Implemented..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -961,14 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -979,8 +977,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="194">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
         </state>
       </provider>

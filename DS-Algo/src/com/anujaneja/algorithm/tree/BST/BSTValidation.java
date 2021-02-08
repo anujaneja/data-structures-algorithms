@@ -2,6 +2,9 @@ package com.anujaneja.algorithm.tree.BST;
 
 import com.anujaneja.algorithm.tree.TreeNode;
 
+/**
+ * Medium - https://leetcode.com/problems/validate-binary-search-tree/
+ */
 public class BSTValidation {
     public static boolean isValidBST(TreeNode root) {
         return isValidBST(root,Long.MIN_VALUE,Long.MAX_VALUE);
