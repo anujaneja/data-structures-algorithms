@@ -2,6 +2,9 @@ package com.anujaneja.algorithm.tree.BST;
 
 import com.anujaneja.algorithm.tree.TreeNode;
 
+/**
+ * Medium - https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
+ */
 public class BSTDeletion {
 
     public static TreeNode deleteKey(TreeNode root, int key) {
