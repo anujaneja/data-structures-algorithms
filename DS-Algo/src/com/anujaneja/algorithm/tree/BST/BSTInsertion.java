@@ -18,7 +18,7 @@ public class BSTInsertion {
         System.out.println("Insersion done...");
         System.out.println("In Order Traversal...");
         BSTInOrderTraversal.inOrder(root);
-        System.out.println("Validate BST: " + BSTValidation.isValidBST(root));
+        System.out.println("\nValidate BST: " + BSTValidation.isValidBST(root));
 
     }
 

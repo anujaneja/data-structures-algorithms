@@ -10,7 +10,7 @@ public class BSTInOrderTraversal {
         }
 
         inOrder(root.left);
-        System.out.println(root.val);
+        System.out.print(root.val+"->");
         inOrder(root.right);
     }
 }
