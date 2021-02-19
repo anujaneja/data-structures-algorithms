@@ -1,6 +1,5 @@
 package com.anujaneja.algorithm.tree;
 
-import com.anujaneja.algorithm.tree.BST.BSTInOrderTraversal;
 import com.anujaneja.algorithm.tree.BST.BSTInsertion;
 
 public class TreeNode {
