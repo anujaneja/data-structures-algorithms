@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fa1ed30-f62a-4fab-9ac9-8cb4dd290a63" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/ReverseLevelOrderTraversal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/BinaryTreeLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/BinaryTreeLevelOrderTraversal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +16,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BSTAncestor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTAncestor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
+      <file leaf-file-name="77_77_Binary_Tree_Level_Order_Traversal__easy_.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/77_77_Binary_Tree_Level_Order_Traversal__easy_.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="78_78_Reverse_Level_Order_Traversal__easy_.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/78_78_Reverse_Level_Order_Traversal__easy_.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary_Tree_Level_Order_Traversal_(easy)_1583603788896.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Binary_Tree_Level_Order_Traversal_(easy)_1583603788896.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reverse_Level_Order_Traversal_(easy)_1583603821529.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Reverse_Level_Order_Traversal_(easy)_1583603821529.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-574">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeLevelOrderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/BinaryTreeLevelOrderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,86 +72,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTDeletion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTDeletion.java">
+      <file leaf-file-name="ReverseLevelOrderTraversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/ReverseLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+            <state relative-caret-position="90">
+              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTInsertion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTInsertion.java">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="232">
+              <caret line="695" column="17" lean-forward="true" selection-start-line="695" selection-start-column="17" selection-end-line="695" selection-end-column="17" />
               <folding>
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#20770#20771#0" expanded="true" />
+                <element signature="e#20799#20800#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTInOrderTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTInOrderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-              <folding />
-            </state>
+      <file leaf-file-name="76_76_Introduction.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/76_76_Introduction.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BSTSearchIterative.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BSTMax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BSTSuccessor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSuccessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BSTSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BSTMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="50" lean-forward="false" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-              <folding />
-            </state>
+      <file leaf-file-name="99_99_Solution_Review__Problem_Challenge_2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/99_99_Solution_Review__Problem_Challenge_2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -164,7 +151,6 @@
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/RotateRightLinkedList.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseKNodeGroupEducative.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/inplace_linkedList/ReverseKNodeGroupLeetcode.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSuccessor.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/Node.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchRecursive.java" />
@@ -175,9 +161,13 @@
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTDeletion.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTInsertion.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSort.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSuccessor.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTAncestor.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/BinaryTreeLevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/ReverseLevelOrderTraversal.java" />
       </list>
     </option>
   </component>
@@ -236,10 +226,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,7 +253,15 @@
               <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="educative" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="educative" type="462c0819:PsiDirectoryNode" />
+              <item name="bfs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
@@ -271,15 +269,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BST" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BalancedBinaryTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
@@ -294,13 +283,43 @@
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" type="462c0819:PsiDirectoryNode" />
               <item name="code-snippet" type="462c0819:PsiDirectoryNode" />
-              <item name="Reverse_a_Sub-list_(medium)_1583603497314.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Binary_Tree_Level_Order_Traversal_(easy)_1583603788896.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively" type="462c0819:PsiDirectoryNode" />
               <item name="code-snippet" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution_Review__Problem_Challenge_1_1583603591833.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Reverse_Level_Order_Traversal_(easy)_1583603821529.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -322,12 +341,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="reverselevel&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Reverse_Level_Order_Traversal_(easy)_1583603821529.java&#10;BinaryTreeLevelOrderT&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Binary_Tree_Level_Order_Traversal_(easy)_1583603788896.java&#10;binaryTree&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/77_77_Binary_Tree_Level_Order_Traversal__easy_.png" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.anujaneja.algorithm.educative.bfs" />
       <recent name="com.anujaneja.algorithm.educative.inplace_linkedList" />
     </key>
   </component>
@@ -343,53 +364,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BSTMin">
-    <configuration name="BSTDeletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ReverseLevelOrderTraversal">
+    <configuration name="BSTAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.anujaneja.algorithm.tree.BST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTDeletion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DS-Algo" />
-      <envs />
-    </configuration>
-    <configuration name="BSTInsertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.tree.BST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTInsertion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DS-Algo" />
-      <envs />
-    </configuration>
-    <configuration name="BSTMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.tree.BST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTMax" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTAncestor" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -420,14 +403,52 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="BSTSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="BSTSuccessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.anujaneja.algorithm.tree.BST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTSort" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.tree.BST.BSTSuccessor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DS-Algo" />
+      <envs />
+    </configuration>
+    <configuration name="BinaryTreeLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.bfs.BinaryTreeLevelOrderTraversal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DS-Algo" />
+      <envs />
+    </configuration>
+    <configuration name="ReverseLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.bfs.ReverseLevelOrderTraversal" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -520,24 +541,27 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BSTInsertion" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BSTDeletion" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BSTSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BSTMax" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BSTMin" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BSTMin" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BSTSuccessor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BSTAncestor" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreeLevelOrderTraversal" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReverseLevelOrderTraversal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BSTMin" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BSTMax" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BSTSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BSTDeletion" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BSTInsertion" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseLevelOrderTraversal" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeLevelOrderTraversal" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BSTAncestor" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BSTSuccessor" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BSTMin" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -553,7 +577,9 @@
       <workItem from="1612374992566" duration="1710000" />
       <workItem from="1612437686420" duration="5589000" />
       <workItem from="1612703819721" duration="9541000" />
-      <workItem from="1612783388687" duration="12679000" />
+      <workItem from="1612783388687" duration="14365000" />
+      <workItem from="1612891589753" duration="4135000" />
+      <workItem from="1613035016710" duration="6845000" />
     </task>
     <task id="LOCAL-00001" summary="Reverse sublist is implemented...">
       <created>1612290809803</created>
@@ -618,11 +644,39 @@
       <option name="project" value="LOCAL" />
       <updated>1612872250547</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="BST Min / Max done...">
+      <created>1612873578216</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612873578216</updated>
+    </task>
+    <task id="LOCAL-00011" summary="BST in order successor...">
+      <created>1612893729051</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612893729051</updated>
+    </task>
+    <task id="LOCAL-00012" summary="BST Ancestor...">
+      <created>1612895309741</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612895309741</updated>
+    </task>
+    <task id="LOCAL-00013" summary="LevelWise Traversal Done...for binary tree...">
+      <created>1613697093707</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613697093707</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35703000" />
+    <option name="totallyTimeSpent" value="48369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -657,8 +711,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -667,7 +720,41 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Codota" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -686,92 +773,17 @@
     <MESSAGE value="BST in order traversal and insert into BST..." />
     <MESSAGE value="BST deletion and traversal is done..." />
     <MESSAGE value="BST sort done..." />
-    <option name="LAST_COMMIT_MESSAGE" value="BST sort done..." />
+    <MESSAGE value="BST Min / Max done..." />
+    <MESSAGE value="BST in order successor..." />
+    <MESSAGE value="BST Ancestor..." />
+    <MESSAGE value="LevelWise Traversal Done...for binary tree..." />
+    <option name="LAST_COMMIT_MESSAGE" value="LevelWise Traversal Done...for binary tree..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/linkedlist/DQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/68_68_Introduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/69_69_Reverse_a_LinkedList__easy_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/71_71_Reverse_every_K_element_Sub_list__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/72_72_Problem_Challenge_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/73_73_Solution_Review__Problem_Challenge_1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/74_74_Problem_Challenge_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/75_75_Solution_Review__Problem_Challenge_2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/70_70_Reverse_a_Sub_list__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/69_69_Reverse_a_LinkedList__easy_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/68_68_Introduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Reverse_a_Sub-list_(medium)_1583603497314.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="102" column="5" lean-forward="false" selection-start-line="91" selection-start-column="4" selection-end-line="102" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/linkedlist/DQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/70_70_Reverse_a_Sub_list__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/71_71_Reverse_every_K_element_Sub_list__medium_.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -803,7 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2175">
           <caret line="145" column="10" lean-forward="false" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,7 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,13 +836,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2385">
           <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/76_76_Introduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/75_75_Solution_Review__Problem_Challenge_2.png">
@@ -849,19 +852,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="43" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="44" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/intervals/MergeIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -869,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -877,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,7 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -893,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="122" column="32" lean-forward="false" selection-start-line="122" selection-start-column="32" selection-end-line="122" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-373">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,7 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -933,7 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -949,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -957,64 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTDeletion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="50" lean-forward="false" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -1031,25 +956,183 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTAncestor.java">
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSearchIterative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTSuccessor.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BST/BSTDeletion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/BalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/1_1_Who_should_take_this_course_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/91_91_Binary_Tree_Path_Sum__easy_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/92_92_All_Paths_for_a_Sum__medium_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/93_93_Sum_of_Path_Numbers__medium_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/94_94_Path_With_Given_Sequence__medium_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/96_96_Problem_Challenge_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/99_99_Solution_Review__Problem_Challenge_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/76_76_Introduction.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="695" column="17" lean-forward="true" selection-start-line="695" selection-start-column="17" selection-end-line="695" selection-end-column="17" />
+          <folding>
+            <element signature="e#20770#20771#0" expanded="true" />
+            <element signature="e#20799#20800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/77_77_Binary_Tree_Level_Order_Traversal__easy_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/78_78_Reverse_Level_Order_Traversal__easy_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Binary_Tree_Level_Order_Traversal_(easy)_1583603788896.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Reverse_Level_Order_Traversal_(easy)_1583603821529.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-574">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/BinaryTreeLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/bfs/ReverseLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
         </state>
       </provider>

@@ -8,10 +8,10 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * Easy - https://www.geeksforgeeks.org/level-order-tree-traversal/
- * Medium - https://leetcode.com/problems/binary-tree-level-order-traversal/
+ *
+ * Easy - https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
  */
-public class BinaryTreeLevelOrderTraversal {
+public class ReverseLevelOrderTraversal {
 
     public static List<List<Integer>> traverse(TreeNode root) {
         if(root==null) {
@@ -42,7 +42,7 @@ public class BinaryTreeLevelOrderTraversal {
                 }
             }
 
-            result.add(currentLevel);
+            result.add(0,currentLevel);
         }
 
         return result;
@@ -56,7 +56,7 @@ public class BinaryTreeLevelOrderTraversal {
         root.left.left = new TreeNode(9);
         root.right.left = new TreeNode(10);
         root.right.right = new TreeNode(5);
-        List<List<Integer>> result = BinaryTreeLevelOrderTraversal.traverse(root);
+        List<List<Integer>> result = ReverseLevelOrderTraversal.traverse(root);
         System.out.println("Level order traversal: " + result);
 
     }
