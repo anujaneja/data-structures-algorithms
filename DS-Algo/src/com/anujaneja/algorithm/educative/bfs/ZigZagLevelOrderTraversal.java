@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * Easy - https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+ * Medium - https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
  * Medium - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
  */
 public class ZigZagLevelOrderTraversal {
