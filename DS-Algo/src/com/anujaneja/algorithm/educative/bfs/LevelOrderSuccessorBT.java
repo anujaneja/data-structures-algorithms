@@ -42,8 +42,6 @@ public class LevelOrderSuccessorBT {
                 if(node.right!=null) {
                     queue.offer(node.right);
                 }
-
-
             }
         }
 
