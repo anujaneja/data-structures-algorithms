@@ -4,7 +4,7 @@ import com.anujaneja.algorithm.tree.BST.BSTInsertion;
 
 public class TreeNode {
     public int      val;
-    public TreeNode left, right;
+    public TreeNode left, right, next;
 
     public TreeNode() {
         this.val = 0;

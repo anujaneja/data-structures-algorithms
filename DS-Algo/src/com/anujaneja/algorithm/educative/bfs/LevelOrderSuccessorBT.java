@@ -6,6 +6,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+/**
+ * Medium -  https://www.geeksforgeeks.org/level-order-successor-of-a-node-in-binary-tree/
+ */
 public class LevelOrderSuccessorBT {
 
     public static TreeNode levelOrderSuccessor(TreeNode root, int key) {
