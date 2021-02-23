@@ -9,7 +9,7 @@ import java.util.List;
  * Video Explanation - https://www.youtube.com/watch?v=Csk6QEFyrtQ
  * Medium - https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/
  * Medium - https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1#
- * NOTE: Space Complexity : O(1)
+ * NOTE: Time Complexity: O(n), Space Complexity : O(1)
  */
 public class TreeBoundary {
 
@@ -92,7 +92,7 @@ public class TreeBoundary {
 
         List<Integer> result = TreeBoundary.traverseTreeBoundary(root);
 
-        System.out.println("Boundary Traversal: "+result);
+        System.out.println("Boundary Traversal: " + result);
     }
 
 }
