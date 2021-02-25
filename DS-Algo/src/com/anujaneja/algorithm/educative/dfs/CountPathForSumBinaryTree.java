@@ -2,10 +2,7 @@ package com.anujaneja.algorithm.educative.dfs;
 
 import com.anujaneja.algorithm.tree.TreeNode;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Map;
 
 /**
