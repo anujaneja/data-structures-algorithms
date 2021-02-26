@@ -34,6 +34,9 @@ public class MaxSumPathBinaryTree {
         root.right = new TreeNode(3);
         System.out.println("Maximum Path Sum: " + MaxSumPathBinaryTree.maxPathSum(root));
 
+        //re-set
+        result = Integer.MIN_VALUE;
+
         root.left.left = new TreeNode(1);
         root.left.right = new TreeNode(3);
         root.right.left = new TreeNode(5);
@@ -43,8 +46,11 @@ public class MaxSumPathBinaryTree {
         root.right.right.left = new TreeNode(9);
         System.out.println("Maximum Path Sum: " + MaxSumPathBinaryTree.maxPathSum(root));
 
+        //re-set
+        result = Integer.MIN_VALUE;
+
         root = new TreeNode(-1);
         root.left = new TreeNode(-3);
-        System.out.println("Maximum Path Sum: " + MaximumPathSum.findMaximumPathSum(root));
+        System.out.println("Maximum Path Sum: " + MaxSumPathBinaryTree.maxPathSum(root));
     }
 }
