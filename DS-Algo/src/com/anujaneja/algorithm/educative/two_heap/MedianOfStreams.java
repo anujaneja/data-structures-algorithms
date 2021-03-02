@@ -2,6 +2,9 @@ package com.anujaneja.algorithm.educative.two_heap;
 
 import java.util.PriorityQueue;
 
+/**
+ * Hard - https://leetcode.com/problems/find-median-from-data-stream/
+ */
 public class MedianOfStreams {
     PriorityQueue<Integer> maxHeap;
     PriorityQueue<Integer> minHeap;
