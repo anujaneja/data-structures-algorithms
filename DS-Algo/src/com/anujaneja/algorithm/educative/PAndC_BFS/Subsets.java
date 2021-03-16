@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Easy - https://leetcode.com/problems/subsets/
+ * Easy/Medium - https://leetcode.com/problems/subsets/
  */
 public class Subsets {
 
