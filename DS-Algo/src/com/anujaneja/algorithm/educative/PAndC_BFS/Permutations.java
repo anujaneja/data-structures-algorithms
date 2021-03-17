@@ -5,6 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+/**
+ * Medium -  https://leetcode.com/problems/permutations/
+ */
 public class Permutations {
 
     public static List<List<Integer>> permute(int[] nums) {
