@@ -2,9 +2,6 @@ package com.anujaneja.algorithm.educative.dfs;
 
 import com.anujaneja.algorithm.tree.TreeNode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Medium - https://leetcode.com/problems/sum-root-to-leaf-numbers/
  */

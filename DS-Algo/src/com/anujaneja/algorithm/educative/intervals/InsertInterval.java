@@ -2,7 +2,6 @@ package com.anujaneja.algorithm.educative.intervals;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.stream.Collectors;
 
 /**

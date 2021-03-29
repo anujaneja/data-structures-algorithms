@@ -2,8 +2,6 @@ package com.anujaneja.algorithm.educative.inplace_linkedList;
 
 import com.anujaneja.algorithm.commons.ListNode;
 
-import java.util.List;
-
 public class ReverseAlternateKNodeGroup {
 
     public static ListNode reversealternateKGroup(ListNode head, int k) {
