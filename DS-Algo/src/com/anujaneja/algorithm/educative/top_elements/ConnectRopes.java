@@ -17,10 +17,9 @@ class ConnectRopes {
         }
 
         while (minHeap.size() >= 2) {
-            int currentJoinCost =  minHeap.poll()+minHeap.poll();
+            int currentJoinCost = minHeap.poll() + minHeap.poll();
             totalCost = totalCost + currentJoinCost;
             minHeap.offer(currentJoinCost);
-
 
         }
 
