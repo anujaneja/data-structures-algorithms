@@ -21,6 +21,8 @@ class KClosestElements {
     public static List<Integer> findClosestElements(int[] arr, int K, Integer X) {
         List<Integer> result = new ArrayList<>();
         int index = binarySearch(arr, X);
+        System.out.println("index="+index);
+
         int leftIndex = index;
         int rightIndex = index + 1;
 
@@ -75,12 +77,12 @@ class KClosestElements {
 
     public static void main(String[] args) {
         List<Integer> result = KClosestElements.findClosestElements(new int[] { 5, 6, 7, 8, 9 }, 3, 7);
+//        System.out.println("'K' closest numbers to 'X' are: " + result);
+
+        result = KClosestElements.findClosestElements(new int[] { 2, 4, 5, 6, 9 ,10,11,12}, 3, 7);
         System.out.println("'K' closest numbers to 'X' are: " + result);
 
-        result = KClosestElements.findClosestElements(new int[] { 2, 4, 5, 6, 9 }, 3, 6);
-        System.out.println("'K' closest numbers to 'X' are: " + result);
-
-        result = KClosestElements.findClosestElements(new int[] { 2, 4, 5, 6, 9 }, 3, 10);
-        System.out.println("'K' closest numbers to 'X' are: " + result);
+//        result = KClosestElements.findClosestElements(new int[] { 2, 4, 5, 6, 9 }, 3, 10);
+//        System.out.println("'K' closest numbers to 'X' are: " + result);
     }
 }
