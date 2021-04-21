@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm.educative.multilist_opr;
+package com.anujaneja.algorithm.educative.k_way_merge;
 
 import java.util.*;
 
