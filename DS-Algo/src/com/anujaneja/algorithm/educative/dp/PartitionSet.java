@@ -27,13 +27,13 @@ class PartitionSet {
             return false;
         }
 
-        int target = sum/2;
+        int target = sum / 2;
 
         Boolean[][] dp = new Boolean[nums.length + 1][target + 1];
 
         for (int i = 0; i <= nums.length; i++) {
             for (int j = 0; j <= target; j++) {
-                if(i==0 && j==0) {
+                if (i == 0 && j == 0) {
                     dp[i][j] = true;
                     continue;
                 }
