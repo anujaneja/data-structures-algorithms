@@ -1,5 +1,9 @@
 package com.anujaneja.algorithm.educative.dp;
 
+/**
+ * Medium - https://leetcode.com/problems/target-sum/
+ * Video: https://www.youtube.com/watch?v=hqGa65Rp5LQ&list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS&index=14
+ */
 public class TargetSum {
 
     public static void main(String[] args) {
@@ -54,6 +58,7 @@ public class TargetSum {
             }
         }
 
+        //Special case handling for zeros...
         return (int)Math.pow(2,zeroCount)*dp[nums.length][subsetSumTarget];
     }
 }
