@@ -22,6 +22,11 @@ public class TargetSum {
         target = 1;
         System.out.println(ts.findTargetSumWays(num, target));
 
+
+        num = new int[]{0, 0, 0, 0, 0, 0, 0, 0, 1 };
+        target = 1;
+        System.out.println(ts.findTargetSumWaysRecursion(num, target));
+
     }
 
     public int findTargetSumWays(int[] nums, int target) {
@@ -60,5 +65,47 @@ public class TargetSum {
 
         //Special case handling for zeros...
         return (int)Math.pow(2,zeroCount)*dp[nums.length][subsetSumTarget];
+    }
+
+
+    public int findTargetSumWaysRecursion(int[] nums, int target) {
+        int n = nums.length;
+        int sum = 0;
+        int zeroCount = 0;
+        for(int num:nums) {
+            sum+=num;
+            if(num==0) {
+                zeroCount++;
+            }
+        }
+
+        int targetSum = (sum+target)/2;
+        return (int)Math.pow(2,zeroCount)*findTargetSumWaysRecursionHelper(nums,targetSum,n);
+    }
+
+    private int findTargetSumWaysRecursionHelper(int[] nums, int targetSum, int n) {
+        if(targetSum==0) {
+            return 1;
+        }
+
+        if(n==0 && targetSum!=0) {
+            return 0;
+        }
+
+
+
+        if(nums[n-1]==0) {
+            return findTargetSumWaysRecursionHelper(nums,targetSum,n-1);
+        }
+
+
+        if(nums[n-1]>targetSum) {
+            return findTargetSumWaysRecursionHelper(nums,targetSum,n-1);
+        }
+
+
+
+        return findTargetSumWaysRecursionHelper(nums,targetSum-nums[n-1],n-1)
+                + findTargetSumWaysRecursionHelper(nums,targetSum,n-1);
     }
 }
