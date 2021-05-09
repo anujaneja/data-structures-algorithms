@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm.educative.dp;
+package com.anujaneja.algorithm.educative.dp.knapsack_01;
 
 /**
  * Medium - https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/

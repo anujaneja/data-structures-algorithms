@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm.educative.dp;
+package com.anujaneja.algorithm.educative.dp.knapsack_01;
 
 /**
  *
