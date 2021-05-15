@@ -14,6 +14,7 @@ class PrintLCS {
         System.out.println("Print LCS Bottom-up Tabulation -> solution");
         System.out.println(lcs.printLCSBottomUp("abdca", "cbda"));
         System.out.println(lcs.printLCSBottomUp("passport", "ppsspt"));
+        System.out.println(lcs.printLCSBottomUp("dynamic", "programming"));
 
     }
 
