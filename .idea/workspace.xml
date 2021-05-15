@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fa1ed30-f62a-4fab-9ac9-8cb4dd290a63" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/Knapsack01.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/Knapsack01.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/MinimumSumDiffPartition.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/MinimumSumDiffPartition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/PartitionSet.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/PartitionSet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/SubsetSumCount.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumCount.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/SubsetSumDP.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumDP.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/SubsetSumDiffCount.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumDiffCount.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/TargetSum.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/TargetSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_tabulationdryrun.pdf" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/knapsack_tabulationdryrun.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LongestCommonSubstring.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/PrintLCS.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LCS.java" afterPath="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LCS.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,101 +17,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PartitionSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/PartitionSet.java">
+      <file leaf-file-name="Knapsack01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/Knapsack01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            <state relative-caret-position="179">
+              <caret line="77" column="40" lean-forward="false" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/Fibonacci.java">
+      <file leaf-file-name="1_1_What_is_Dynamic_Programming_.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/1_1_What_is_Dynamic_Programming_.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_12_Maximum_Ribbon_Cut.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/12_12_Maximum_Ribbon_Cut.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_13_Fibonacci_numbers.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/13_13_Fibonacci_numbers.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest_Common_Subsequence_1583647697879.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Longest_Common_Subsequence_1583647697879.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
-              <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+              <caret line="29" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubsetSumDP.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumDP.java">
+      <file leaf-file-name="LCS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LCS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="191">
+              <caret line="78" column="9" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="78" selection-end-column="9" />
+              <folding>
+                <element signature="e#2047#2048#0" expanded="true" />
+                <element signature="e#2126#2127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintLCS.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/PrintLCS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="78" lean-forward="true" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TargetSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/TargetSum.java">
+      <file leaf-file-name="LongestCommonSubstring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LongestCommonSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="600">
+              <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem_Challenge_2_1583640562626.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Problem_Challenge_2_1583640562626.java">
+      <file leaf-file-name="Longest_Common_Substring_1583647645080.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Longest_Common_Substring_1583647645080.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="41">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution_Review__Problem_Challenge_2_1583640597095.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Solution_Review__Problem_Challenge_2_1583640597095.java">
+      <file leaf-file-name="CoinChange1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/unbounded_knapsack/CoinChange1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubsetSumDiffCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumDiffCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubsetSumCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinimumSumDiffPartition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/MinimumSumDiffPartition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Minimum_Subset_Sum_Difference_1583647020992.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Minimum_Subset_Sum_Difference_1583647020992.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="39" column="3" lean-forward="true" selection-start-line="31" selection-start-column="2" selection-end-line="39" selection-end-column="3" />
+            <state relative-caret-position="-717">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -144,6 +132,10 @@
       <find>findNextIntervalBinary</find>
       <find>RearrangeStringKDistanceApart</find>
       <find>reorganizeString</find>
+      <find>cutRodMemoization</find>
+      <find>findLCSLengthTopDownRecursive</find>
+      <find>findLCSLengthTopDown</find>
+      <find>printLCS</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -165,12 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/binarySearch/SearchInfiniteSortedArray.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/binarySearch/MinimumDifference.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/binarySearch/BiotonicArray.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/array/BinarySearchExtended.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/binarySearch/SearchInRotatedArray.java" />
-        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/binarySearch/FindNoOfRotation.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/xor/SingleNumber.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/xor/TwoNumbers.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/xor/TwoSingleNumbers.java" />
@@ -216,6 +202,12 @@
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/SubsetSumDiffCount.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/TargetSum.java" />
         <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/TargetSum.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/unbounded_knapsack/RodCuttingMaxProfit.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/unbounded_knapsack/CoinChange1.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/unbounded_knapsack/CoinChange2.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LCS.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LongestCommonSubstring.java" />
+        <option value="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/PrintLCS.java" />
       </list>
     </option>
   </component>
@@ -275,6 +267,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,6 +303,33 @@
             </path>
             <path>
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="educative" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="knapsack_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="educative" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="LCS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS-Algo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="educative" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
+              <item name="unbounded_knapsack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -321,13 +341,13 @@
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively" type="462c0819:PsiDirectoryNode" />
               <item name="code-snippet" type="462c0819:PsiDirectoryNode" />
-              <item name="Fibonacci_numbers_1583647280376.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Longest_Common_Subsequence_1583647697879.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively" type="462c0819:PsiDirectoryNode" />
               <item name="code-snippet" type="462c0819:PsiDirectoryNode" />
-              <item name="Minimum_Subset_Sum_Difference_1583647020992.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Longest_Common_Substring_1583647645080.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="djet" type="b2602c69:ProjectViewProjectNode" />
@@ -714,7 +734,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -736,15 +755,15 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="targetsu&#9;PSI&#9;JAVA://TargetSum&#10;targetsum&#9;PSI&#9;JAVA://TargetSum&#10;subsetsumdif&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Minimum_Subset_Sum_Difference_1583647020992.java&#10;minimum&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/5_5_Minimum_Subset_Sum_Difference.png&#10;minim&#9;PSI&#9;JAVA://MinimumDifference&#10;subsetsum&#9;PSI&#9;JAVA://SubsetSum&#10;SubsetSumCount&#9;FILE&#9;file:///Users/admin/codebase/pp/djet/DS-Algo/src/com/anujaneja/algorithm/educative/dp/SubsetSumCount.java&#10;partitionset&#9;PSI&#9;JAVA://PartitionSet&#10;subsetSum.java&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Subset_Sum_(medium)_1583640329946.java&#10;knaps&#9;PSI&#9;JAVA://Knapsack&#10;Fibonacci&#9;PSI&#9;JAVA://Fibonacci&#10;largestpairs&#9;PSI&#9;JAVA://LargestPairs&#10;smallestRange&#9;PSI&#9;JAVA://SmallestRange&#10;kthsmallest_mat&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Kth_Smallest_Number_in_a_Sorted_Matrix_(Hard)_1583639904702.java&#10;KthSmallestInMSortedArrays&#9;PSI&#9;JAVA://KthSmallestInMSortedArrays&#10;KthSmalles&#9;PSI&#9;JAVA://KthSmallestInMSortedArrays&#10;MergeKSortedLists&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Merge_K_Sorted_Lists_(medium)_1583639828201.java&#10;mergeKSortedL&#9;PSI&#9;JAVA://MergeKSortedLists&#10;frequencyStack&#9;PSI&#9;JAVA://FrequencyStack&#10;taskS&#9;PSI&#9;JAVA://TaskScheduler&#10;taskSc&#9;PSI&#9;JAVA://TaskScheduler&#10;rearrangeKD&#9;PSI&#9;JAVA://RearrangeStringKDistanceApart&#10;Rearr&#9;PSI&#9;JAVA://RearrangeString&#10;rearrangeStringK&#9;PSI&#9;JAVA://RearrangeStringKDistanceApart&#10;rearran&#9;PSI&#9;JAVA://RearrangeString#rearrangeString&#10;rearrange&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Rearrange_String_(hard)_1583639346078.java&#10;rearra&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Rearrange_String_(hard)_1583639346078.java&#10;sumofelements&#9;PSI&#9;JAVA://SumOfElements&#10;maximum&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Maximum_Distinct_Elements_(medium)_1583639244731.java&#10;maxim&#9;PSI&#9;JAVA://MaximumCPULoad&#10;kClosest&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/'K'_Closest_Numbers_(medium)_1583639194586.java&#10;kclosest&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/'K'_Closest_Numbers_(medium)_1583639194586.java&#10;BinarySearc&#9;PSI&#9;JAVA://com.anujaneja.algorithm.array.BinarySearchIterative&#10;binarySearc&#9;PSI&#9;JAVA://BinarySearch&#10;kcloses&#9;PSI&#9;JAVA://KClosestElements&#10;kthla&#9;PSI&#9;JAVA://KthLargestNumberInStream&#10;freqS&#9;PSI&#9;JAVA://FrequencySort&#10;topkFreq&#9;PSI&#9;JAVA://TopKFrequentNumbers&#10;connectRop&#9;PSI&#9;JAVA://ConnectRopes&#10;KClos&#9;PSI&#9;JAVA://KClosestPointsToOrigin&#10;kthsm&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Kth_Smallest_Number_(easy)_1583638902253.java&#10;KlargestN&#9;PSI&#9;JAVA://KLargestNumbers&#10;flipa&#9;PSI&#9;JAVA://Solution#flipAndInvertImage&#10;flip&#9;PSI&#9;JAVA://Solution#flipAndInvertImage&#10;complementofbase&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Complement_of_Base_10_Number_(medium)_1583606655680.java&#10;TwoNumbers&#9;PSI&#9;JAVA://TwoSingleNumbers&#10;singleN&#9;PSI&#9;JAVA://SingleNumber&#10;Rotation&#9;PSI&#9;JAVA://RotationCountOfRotatedArray&#10;rotatedArra&#9;PSI&#9;JAVA://SearchRotatedArray&#10;searchin&#9;FILE&#9;file:///Users/admin/codebase/pp/djet/DS-Algo/src/com/anujaneja/algorithm/educative/binarySearch/SearchInRotatedArray.java" />
+    <property name="SearchEverywhereHistoryKey" value="Longest&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Longest_Common_Substring_1583647645080.java&#10;LCS&#9;PSI&#9;JAVA://LCS&#10;targetsu&#9;PSI&#9;JAVA://TargetSum&#10;targetsum&#9;PSI&#9;JAVA://TargetSum&#10;subsetsumdif&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Minimum_Subset_Sum_Difference_1583647020992.java&#10;minimum&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/5_5_Minimum_Subset_Sum_Difference.png&#10;minim&#9;PSI&#9;JAVA://MinimumDifference&#10;subsetsum&#9;PSI&#9;JAVA://SubsetSum&#10;SubsetSumCount&#9;FILE&#9;file:///Users/admin/codebase/pp/djet/DS-Algo/src/com/anujaneja/algorithm/educative/dp/SubsetSumCount.java&#10;partitionset&#9;PSI&#9;JAVA://PartitionSet&#10;subsetSum.java&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Subset_Sum_(medium)_1583640329946.java&#10;knaps&#9;PSI&#9;JAVA://Knapsack&#10;Fibonacci&#9;PSI&#9;JAVA://Fibonacci&#10;largestpairs&#9;PSI&#9;JAVA://LargestPairs&#10;smallestRange&#9;PSI&#9;JAVA://SmallestRange&#10;kthsmallest_mat&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Kth_Smallest_Number_in_a_Sorted_Matrix_(Hard)_1583639904702.java&#10;KthSmallestInMSortedArrays&#9;PSI&#9;JAVA://KthSmallestInMSortedArrays&#10;KthSmalles&#9;PSI&#9;JAVA://KthSmallestInMSortedArrays&#10;MergeKSortedLists&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Merge_K_Sorted_Lists_(medium)_1583639828201.java&#10;mergeKSortedL&#9;PSI&#9;JAVA://MergeKSortedLists&#10;frequencyStack&#9;PSI&#9;JAVA://FrequencyStack&#10;taskS&#9;PSI&#9;JAVA://TaskScheduler&#10;taskSc&#9;PSI&#9;JAVA://TaskScheduler&#10;rearrangeKD&#9;PSI&#9;JAVA://RearrangeStringKDistanceApart&#10;Rearr&#9;PSI&#9;JAVA://RearrangeString&#10;rearrangeStringK&#9;PSI&#9;JAVA://RearrangeStringKDistanceApart&#10;rearran&#9;PSI&#9;JAVA://RearrangeString#rearrangeString&#10;rearrange&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Rearrange_String_(hard)_1583639346078.java&#10;rearra&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Rearrange_String_(hard)_1583639346078.java&#10;sumofelements&#9;PSI&#9;JAVA://SumOfElements&#10;maximum&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Maximum_Distinct_Elements_(medium)_1583639244731.java&#10;maxim&#9;PSI&#9;JAVA://MaximumCPULoad&#10;kClosest&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/'K'_Closest_Numbers_(medium)_1583639194586.java&#10;kclosest&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/'K'_Closest_Numbers_(medium)_1583639194586.java&#10;BinarySearc&#9;PSI&#9;JAVA://com.anujaneja.algorithm.array.BinarySearchIterative&#10;binarySearc&#9;PSI&#9;JAVA://BinarySearch&#10;kcloses&#9;PSI&#9;JAVA://KClosestElements&#10;kthla&#9;PSI&#9;JAVA://KthLargestNumberInStream&#10;freqS&#9;PSI&#9;JAVA://FrequencySort&#10;topkFreq&#9;PSI&#9;JAVA://TopKFrequentNumbers&#10;connectRop&#9;PSI&#9;JAVA://ConnectRopes&#10;KClos&#9;PSI&#9;JAVA://KClosestPointsToOrigin&#10;kthsm&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Kth_Smallest_Number_(easy)_1583638902253.java&#10;KlargestN&#9;PSI&#9;JAVA://KLargestNumbers&#10;flipa&#9;PSI&#9;JAVA://Solution#flipAndInvertImage&#10;flip&#9;PSI&#9;JAVA://Solution#flipAndInvertImage&#10;complementofbase&#9;FILE&#9;file:///Users/admin/codebase/pp/eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Complement_of_Base_10_Number_(medium)_1583606655680.java&#10;TwoNumbers&#9;PSI&#9;JAVA://TwoSingleNumbers&#10;singleN&#9;PSI&#9;JAVA://SingleNumber&#10;Rotation&#9;PSI&#9;JAVA://RotationCountOfRotatedArray" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.anujaneja.algorithm.educative.dp.LCS" />
       <recent name="com.anujaneja.algorithm.educative.k_way_merge" />
       <recent name="com.anujaneja.algorithm.educative.top_elements" />
       <recent name="com.anujaneja.algorithm.educative.binarySearch" />
       <recent name="com.anujaneja.algorithm.educative.dfs" />
-      <recent name="com.anujaneja.algorithm.educative.bfs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01" />
@@ -762,15 +781,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TargetSum">
-    <configuration name="MinimumSumDiffPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.PrintLCS">
+    <configuration name="CoinChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.unbounded_knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.MinimumSumDiffPartition" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.unbounded_knapsack.CoinChange1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -782,14 +801,14 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="PartitionSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CoinChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.unbounded_knapsack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.PartitionSet" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.unbounded_knapsack.CoinChange2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -801,14 +820,14 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="SubsetSumCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.LCS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.SubsetSumCount" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.LCS.LCS" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -820,14 +839,14 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="SubsetSumDiffCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.LCS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.SubsetSumDiffCount" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.LCS.LongestCommonSubstring" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -839,14 +858,14 @@
       <module name="DS-Algo" />
       <envs />
     </configuration>
-    <configuration name="TargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintLCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.*" />
+          <option name="PATTERN" value="com.anujaneja.algorithm.educative.dp.LCS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.TargetSum" />
+      <option name="MAIN_CLASS_NAME" value="com.anujaneja.algorithm.educative.dp.LCS.PrintLCS" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -939,19 +958,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PartitionSet" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SubsetSumCount" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MinimumSumDiffPartition" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SubsetSumDiffCount" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TargetSum" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CoinChange1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CoinChange2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LCS" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LongestCommonSubstring" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PrintLCS" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TargetSum" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SubsetSumDiffCount" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SubsetSumCount" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MinimumSumDiffPartition" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PartitionSet" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PrintLCS" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LongestCommonSubstring" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LCS" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CoinChange2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CoinChange1" />
       </list>
     </recent_temporary>
   </component>
@@ -999,35 +1018,9 @@
       <workItem from="1620022016784" duration="5334000" />
       <workItem from="1620149586114" duration="10308000" />
       <workItem from="1620321429205" duration="1776000" />
-      <workItem from="1620374136986" duration="12175000" />
-    </task>
-    <task id="LOCAL-00032" summary="Right view of tree done...">
-      <created>1614341309127</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1614341309127</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Median of streams is corrected...">
-      <created>1614617552412</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1614617552412</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Right view of tree done...">
-      <created>1614679336139</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1614679336139</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Maximize Capital implemented...">
-      <created>1615544914790</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1615544914790</updated>
+      <workItem from="1620374136986" duration="18032000" />
+      <workItem from="1620906815144" duration="10805000" />
+      <workItem from="1621077482519" duration="8096000" />
     </task>
     <task id="LOCAL-00036" summary="Right view of tree done...">
       <created>1615787664023</created>
@@ -1344,11 +1337,39 @@
       <option name="project" value="LOCAL" />
       <updated>1620495830098</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Moved to correct package">
+      <created>1620567414303</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1620567414303</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Moved to correct package">
+      <created>1620800116177</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1620800116177</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Coin change 1/2 problem solved...">
+      <created>1621014247616</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1621014247616</updated>
+    </task>
+    <task id="LOCAL-00084" summary="LCS -&gt; Longest Common Subsequence implemented">
+      <created>1621082345521</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1621082345521</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350920000" />
+    <option name="totallyTimeSpent" value="375678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1383,7 +1404,7 @@
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32230216" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27110156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1437,9 +1458,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Two single number using bit-wise question done..." />
-    <MESSAGE value="Another approach..." />
-    <MESSAGE value="K larget number using minheap solved..." />
     <MESSAGE value="Closest point to origin..." />
     <MESSAGE value="Connect ropes...formatting..." />
     <MESSAGE value="top k frequent numbers..." />
@@ -1462,7 +1480,10 @@
     <MESSAGE value="Minimum sum partition diff soled..." />
     <MESSAGE value="0/1 knapsack problem solved...using tabulation..." />
     <MESSAGE value="target sum using recursive solution..." />
-    <option name="LAST_COMMIT_MESSAGE" value="target sum using recursive solution..." />
+    <MESSAGE value="Moved to correct package" />
+    <MESSAGE value="Coin change 1/2 problem solved..." />
+    <MESSAGE value="LCS -&gt; Longest Common Subsequence implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="LCS -&gt; Longest Common Subsequence implemented" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1484,68 +1505,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/top_elements/TaskScheduler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Problem_Challenge_3_1583639599619.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/155_155_Problem_Challenge_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Solution_Review__Problem_Challenge_3_1583639713472.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/156_156_Solution_Review__Problem_Challenge_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/157_157_Introduction.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/top_elements/FrequencyStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="42" lean-forward="false" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/158_158_Merge_K_Sorted_Lists__medium_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Merge_K_Sorted_Lists_(medium)_1583639828201.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="73" column="19" lean-forward="false" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Kth_Smallest_Number_in_M_Sorted_Lists_(Medium)_1583639866051.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/159_159_Kth_Smallest_Number_in_M_Sorted_Lists__Medium_.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1666,11 +1625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/1_1_What_is_Dynamic_Programming_.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/0_1_Knapsack_(medium)_1583640055965.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1688,14 +1642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/Knapsack01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="40" lean-forward="false" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1725,7 +1671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1754,8 +1699,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state relative-caret-position="510">
+          <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1771,15 +1716,15 @@
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/MinimumSumDiffPartition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking the Coding Interview: Patterns for Coding Questions - Learn Interactively/code-snippet/Solution_Review__Problem_Challenge_2_1583640597095.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        <state relative-caret-position="645">
+          <caret line="43" column="3" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1787,15 +1732,15 @@
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <caret line="44" column="9" lean-forward="false" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/PartitionSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        <state relative-caret-position="225">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -1803,14 +1748,14 @@
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumDiffCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/SubsetSumDP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="195">
           <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="44" />
           <folding />
         </state>
@@ -1818,8 +1763,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/TargetSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/unbounded_knapsack/RodCuttingMaxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/unbounded_knapsack/CoinChange2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/1_1_What_is_Dynamic_Programming_.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/12_12_Maximum_Ribbon_Cut.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/13_13_Fibonacci_numbers.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Longest_Common_Subsequence_1583647697879.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/unbounded_knapsack/CoinChange1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-717">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/knapsack_01/Knapsack01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="77" column="40" lean-forward="false" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../eio-downloader/downloads_final/Grokking Dynamic Programming Patterns for Coding Interviews - Learn Interactively/code-snippet/Longest_Common_Substring_1583647645080.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LongestCommonSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/LCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="78" column="9" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="78" selection-end-column="9" />
+          <folding>
+            <element signature="e#2047#2048#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS-Algo/src/com/anujaneja/algorithm/educative/dp/LCS/PrintLCS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="78" lean-forward="true" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
           <folding />
         </state>
       </provider>
