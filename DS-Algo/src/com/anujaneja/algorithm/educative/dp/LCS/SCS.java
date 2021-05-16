@@ -5,6 +5,7 @@ import java.util.Arrays;
 /**
  * Medium - https://www.geeksforgeeks.org/shortest-common-supersequence/
  * https://www.youtube.com/watch?v=823Grn4_dCQ&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=24
+ * NOTE: Also, SCS Length = s1.length()+s2.length()-LCS.length()
  */
 public class SCS {
 
