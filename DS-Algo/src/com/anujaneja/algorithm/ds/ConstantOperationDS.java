@@ -28,8 +28,12 @@ public class ConstantOperationDS<T> {
             T temp = elements.get(elementIndex);
             elements.set(elementIndex, elements.get(lastElementIndex));
             elements.set(lastElementIndex, temp);
+            //Update swapped element index as well...and remove data from elementToIndex...
+            elementToIndex.put(elements.get(elementIndex),elementIndex);
+            elementToIndex.remove(data);
             //O(1) operation....
             elements.remove(lastElementIndex);
+
             return true;
         }
         return false;
