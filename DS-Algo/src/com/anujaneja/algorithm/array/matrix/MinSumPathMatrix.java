@@ -1,5 +1,9 @@
 package com.anujaneja.algorithm.array.matrix;
 
+/**
+ * Medium:  https://leetcode.com/problems/minimum-path-sum/
+ *
+ */
 public class MinSumPathMatrix {
     public int minPathSum(int[][] grid) {
         int m=grid.length-1;

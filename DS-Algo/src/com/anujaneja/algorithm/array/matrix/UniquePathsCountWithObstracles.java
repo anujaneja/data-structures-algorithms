@@ -2,6 +2,9 @@ package com.anujaneja.algorithm.array.matrix;
 
 import java.util.Arrays;
 
+/**
+ * Medium: https://leetcode.com/problems/unique-paths-ii/
+ */
 public class UniquePathsCountWithObstracles {
 
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
