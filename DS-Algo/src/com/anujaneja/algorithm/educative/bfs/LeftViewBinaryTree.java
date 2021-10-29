@@ -51,6 +51,42 @@ public class LeftViewBinaryTree {
 
     }
 
+
+    public static List<Integer> rightSideView(TreeNode root) {
+        if(root==null) {
+            return new ArrayList<>();
+        }
+
+        List<Integer> result = new ArrayList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while(!queue.isEmpty()) {
+            int levelSize = queue.size();
+
+            List<Integer> levelElements = new ArrayList<>();
+
+            for(int i=0;i<levelSize;i++) {
+                TreeNode node = queue.poll();
+                levelElements.add(node.val);
+
+                //add its childs to queue...
+                if(node.left!=null) {
+                    queue.offer(node.left);
+                }
+
+                if(node.right!=null) {
+                    queue.offer(node.right);
+                }
+
+            }
+
+            result.add(levelElements.get(levelElements.size()-1));
+        }
+
+        return result;
+    }
+
     public static void main(String[] args) {
         TreeNode root = new TreeNode(12);
         root.left = new TreeNode(7);
