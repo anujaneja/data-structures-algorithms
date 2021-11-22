@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm.array.matrix;
+package com.anujaneja.algorithm.dp.matrix;
 
 // Easy- https://leetcode.com/problems/unique-paths/
 public class UniquePaths1 {

@@ -1,4 +1,4 @@
-package com.anujaneja.algorithm.array.matrix;
+package com.anujaneja.algorithm.dp.matrix;
 
 import java.util.Arrays;
 
