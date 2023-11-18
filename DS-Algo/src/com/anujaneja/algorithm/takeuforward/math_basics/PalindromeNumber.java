@@ -3,6 +3,9 @@ package com.anujaneja.algorithm.takeuforward.math_basics;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Time complexity - O(k) where k is the number of digits
+ */
 public class PalindromeNumber {
     static boolean isPalindrome(int x) {
         int reverse_num = 0;
